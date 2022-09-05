@@ -1,0 +1,246 @@
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (max-width: 1440px) {
+    
+
+
+}
+
+
+/* // XX-Large devices (larger desktops, 1024px and up) */
+@media (max-width: 1024px) {
+    
+
+
+}
+
+/* // XX-Large devices (larger desktops, 1024px and up) */
+@media (max-width: 1023.99px)   {
+        #header {
+            padding: 8px 21px;
+        }
+        #header .header_content .text h2 {  
+            font-weight: 400;
+        }
+       
+        #header .header_content .text h4{
+                font-size: 45px;  
+        }
+        .bg  h6{
+            margin-top: 20px;
+        }
+
+         /* description  */
+        #description {
+            padding: 47px 80px;
+            text-align: center;
+        }
+         /* order  */
+
+         #order{
+            padding: 65px 3px;
+            text-align: center;
+        }
+        #order .order_contens a button{
+            border-radius: 30px;
+            padding: 28px 63px;
+            font-size: 50px
+        }
+
+        /* review  */
+        #review .review-header h2{
+            
+           
+            font-size: 55px;
+            line-height: 137.2%;
+            text-align: center;
+           
+        }
+        #review .review_contain .text_review{
+            padding: 20px 0;
+            margin-right: 20px;
+        }
+     /* ..discount price  */
+
+     #discount_price .discount_contain{
+        text-align: center;
+        border-radius: 10px;
+        padding: 37px 14px
+    }
+    #discount_price .discount_contain a button{
+        font-size: 40px;
+    }
+
+    /* footer  */
+    #footer .footer_header-contain {
+        text-align: center;
+      
+    
+    }
+    #footer .footer_header-contain .call , .email {
+        justify-content: center;
+      
+    
+    }
+ 
+    #footer .text h2 {
+        font-size: 43px;
+       
+       text-align: center;
+    
+    }
+    #footer .icon{
+        justify-content: center;
+    }
+    #footer .text h4{
+        text-align: center;
+        font-size: 23px;
+    }
+    #footer .text2 h3{
+
+    text-align: center;
+    font-size: 13px;
+   
+    
+    }
+        
+     
+    
+    
+    
+
+
+}
+@media (max-width: 767.99px) {
+    #header {
+        padding: 12px 2px;
+    }
+    #header .header_content .text h2 {  
+        font-weight: 400;
+        font-size: 34px
+    }
+   
+    #header .header_content .text h4{
+            font-size: 20px;  
+    }
+    #header .bg  h6{
+        margin-top: 20px;
+    }
+    #header .bg {
+        flex-direction: column
+    }
+    #header .bg a button{
+        border-radius: 15px;
+        padding: 12px 0px;
+        font-size: 23px;
+        line-height: 112.7%;
+        width: 100%;
+    
+    }
+
+     /* description  */
+    #description {
+        padding: 35px 10px;
+        text-align: center;
+    }
+    
+     /* order  */
+
+     #order{
+        padding: 47px 0;
+        text-align: center;
+    }
+    #order .order_contens h2 {
+        font-size: 45px;
+        line-height: 67px;
+        color: #F2371D;
+        padding: 15px;
+    }
+    #order .order_contens a button{
+        border-radius: 30px;
+        padding: 34px 10px;
+        font-size: 40px
+    }
+
+    /* review  */
+    #review .review_contain .img {
+        text-align: center;
+    }
+    #review .review_contain .text_review{
+        text-align: center;
+    }
+    #review .review_contain .text_review .icon_star{
+        justify-content: center;
+    }
+
+    /* form  part  */
+    .form_part_content .dexcription button{
+        width: 100%;
+        font-size: 20px;
+        border-radius: 10px;
+        padding: 12px 54px;
+    }
+
+    /* roules  */
+    #roules .roules_container h2 {
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 137.2%;
+        text-align: center;
+        color: #0D0F22;
+        margin-top: 100px;
+    }
+    
+    #roules .roules_item{
+        padding: 26px 20px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    
+    }
+
+    /* review  */
+    #review .review-header h2{
+        font-size: 55px;
+        line-height: 137.2%;
+        text-align: center;
+       
+    }
+    #review .review_contain .text_review{
+        padding: 20px 0;
+        margin-right: 20px;
+    }
+ /* ..discount price  */
+
+ #discount_price .discount_contain{
+    text-align: center;
+    border-radius: 10px;
+    padding: 6px 4px;
+}
+#discount_price .discount_contain a button{
+    font-size: 30px;
+}
+
+/* footer  */
+#footer .footer_header-contain h2{
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 29px;
+    color: #0D0F22;
+
+}
+
+#footer .text h2 {
+   
+   text-align: center;
+
+}
+#footer .text h4{
+    text-align: center;
+    margin-left: 15px;
+}
+#footer .text2 h3{
+
+text-align: center;
+}
+
+}
